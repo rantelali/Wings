@@ -1,0 +1,28 @@
+/* src/components/Navigation.css */
+.navigation-bar {
+    background-color: #0056b3; /* Adjust based on your preferred blue color scheme */
+    padding: 1rem;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  
+
+
+
+
+
+  
